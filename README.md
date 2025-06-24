@@ -1,6 +1,5 @@
 
-
-<img src="https://files.oaiusercontent.com/file-Nt4iqb9f2EqxVmxFepRySgKr?se=2025-06-26T18%3A25%3A00Z&sp=r&sv=2021-08-06&sr=b&sig=jF7DN3D7z2MkmpCNEyxL3kHVU7vjK3Vvg3z2NlJcKmI%3D" alt="Taherun Nasa Toma GitHub Banner" width="100%" />
+<img src="./Mern Stack Developer.png width="100%" />
 
 
 
