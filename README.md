@@ -1,5 +1,6 @@
 
-<img src="./Mern Stack Developer.png width="100%" />
+![Banner](./Mern Stack Developer.png)
+
 
 
 
