@@ -1,5 +1,5 @@
 
-![Banner](Mern Stack Developer.png)
+![Banner](MernStackDeveloper.png)
 
 
 
