@@ -17,7 +17,7 @@
 I am a passionate MERN Stack Developer focused on building full-stack web applications with modern tools and best practices.
 
 - 🔭 I’m currently working on a **Car Rental System**
-- 🌱 I’m exploring **Next.js**
+- 🌱 I’m exploring **Node.js**
 - 💻 Practicing real-world projects to strengthen my development skills
 - 🎯 Focused on building user-friendly and responsive web apps
 
